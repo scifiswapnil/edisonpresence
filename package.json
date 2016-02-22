@@ -1,0 +1,25 @@
+{
+  "name": "edisonpresence",
+  "version": "1.0.0",
+  "description": "telepresence robot based on intel edison ",
+  "main": "cont.js",
+  "scripts": {
+    "test": "echo \"Error\" && exit 1"
+  },
+    "dependencies" : {
+    "easyrtc"   : "1.0.x",
+    "express"   : "*",
+    "socket.io" : "0.9.x",
+    "ejs"	: "2.3.4"
+	
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/scifiswapnil/edisonpresence.git"
+  },
+  "author": "scifiswapnil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/scifiswapnil/edisonpresence/issues"
+  }
+}
